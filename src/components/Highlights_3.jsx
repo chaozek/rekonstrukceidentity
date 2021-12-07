@@ -23,7 +23,7 @@ const Highlights = () => {
           </strong>
 
           <Ul>
-            <ScrollAnimation animateIn="flipInY">
+            <ScrollAnimation animateIn="bounceInRight">
               <Li>
                 <ArrowForwardIosIcon style={{ color: "#3BB6D7" }} />
                 <P>
@@ -37,7 +37,7 @@ const Highlights = () => {
                 </P>
               </Li>
             </ScrollAnimation>
-            <ScrollAnimation animateIn="flipInY">
+            <ScrollAnimation animateIn="bounceInRight">
               <Li>
                 <ArrowForwardIosIcon style={{ color: "#3BB6D7" }} />
                 <P>
@@ -51,7 +51,7 @@ const Highlights = () => {
                 </P>
               </Li>
             </ScrollAnimation>
-            <ScrollAnimation animateIn="flipInY">
+            <ScrollAnimation animateIn="bounceInRight">
               <Li>
                 <ArrowForwardIosIcon style={{ color: "#3BB6D7" }} />
                 <P>
@@ -65,7 +65,7 @@ const Highlights = () => {
                 </P>
               </Li>
             </ScrollAnimation>
-            <ScrollAnimation animateIn="flipInY">
+            <ScrollAnimation animateIn="bounceInRight">
               <Li>
                 <ArrowForwardIosIcon style={{ color: "#3BB6D7" }} />
                 <P>
@@ -79,7 +79,7 @@ const Highlights = () => {
                 </P>
               </Li>
             </ScrollAnimation>
-            <ScrollAnimation animateIn="flipInY">
+            <ScrollAnimation animateIn="bounceInRight">
               <Li>
                 <ArrowForwardIosIcon style={{ color: "#3BB6D7" }} />
                 <P>

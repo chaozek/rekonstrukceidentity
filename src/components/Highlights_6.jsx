@@ -22,7 +22,7 @@ const Highlights = () => {
           </strong>
 
           <Ul>
-            <ScrollAnimation animateIn="flipInY">
+            <ScrollAnimation animateIn="bounceInRight">
               <Li>
                 <ArrowForwardIosIcon style={{ color: "#5C9DE9" }} />
                 <P>
@@ -35,7 +35,7 @@ const Highlights = () => {
                 </P>
               </Li>
             </ScrollAnimation>
-            <ScrollAnimation animateIn="flipInY">
+            <ScrollAnimation animateIn="bounceInRight">
               <Li>
                 <ArrowForwardIosIcon style={{ color: "#9D64AF" }} />
                 <P>
@@ -48,7 +48,7 @@ const Highlights = () => {
                 </P>
               </Li>
             </ScrollAnimation>
-            <ScrollAnimation animateIn="flipInY">
+            <ScrollAnimation animateIn="bounceInRight">
               <Li>
                 <ArrowForwardIosIcon style={{ color: "#D26BB6" }} />
                 <P>
@@ -64,7 +64,7 @@ const Highlights = () => {
           </Ul>
         </Left>
         <Right>
-          <ScrollAnimation animateIn="flipInY" animateOut="flipOutY">
+          <ScrollAnimation animateIn="wobble">
             {" "}
             <Img src={Get2KnowMe} />
           </ScrollAnimation>
