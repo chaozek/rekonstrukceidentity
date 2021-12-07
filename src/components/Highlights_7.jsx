@@ -34,7 +34,10 @@ const Highlights = () => {
 
           <Ul>
             <ScrollAnimation animateIn="fadeIn">
-              <A href="#">
+              <A
+                target="_blank"
+                href="https://psychologieprokazdeho.cz/rekonstrukce-identity/"
+              >
                 <Li>
                   <ArrowForwardIosIcon style={{ color: "#5C9DE9" }} />
                   <P>Rekonstrukce identity</P>
@@ -42,7 +45,10 @@ const Highlights = () => {
               </A>
             </ScrollAnimation>
             <ScrollAnimation animateIn="fadeIn">
-              <A href="#">
+              <A
+                target="_blank"
+                href="https://psychologieprokazdeho.cz/online-vzdelavani-nepropasnete-svou-prilezitost/"
+              >
                 <Li>
                   <ArrowForwardIosIcon style={{ color: "#5C9DE9" }} />
                   <P>Online vzdělávání-nepropásněte svou příležitost</P>
@@ -50,7 +56,32 @@ const Highlights = () => {
               </A>
             </ScrollAnimation>
             <ScrollAnimation animateIn="fadeIn">
-              <A href="#">
+              <A
+                target="_blank"
+                href="https://psychologieprokazdeho.cz/andrea-gembalova-a-jarka-spolkova-psychologickym-vycvikem-k-silne-osobnosti/"
+              >
+                <Li>
+                  <ArrowForwardIosIcon style={{ color: "#5C9DE9" }} />
+                  <P>Psychologickým výcvikem k silné osobnosti</P>
+                </Li>
+              </A>
+            </ScrollAnimation>
+            <ScrollAnimation animateIn="fadeIn">
+              <A
+                target="_blank"
+                href="https://psychologieprokazdeho.cz/vojtech-kracik-proc-je-dulezite-aby-mel-obchodnik-zdravou-identitu/"
+              >
+                <Li>
+                  <ArrowForwardIosIcon style={{ color: "#5C9DE9" }} />
+                  <P> Proč je důležité mít zdravou identitu</P>
+                </Li>
+              </A>
+            </ScrollAnimation>
+            <ScrollAnimation animateIn="fadeIn">
+              <A
+                target="_blank"
+                href="https://psychologieprokazdeho.cz/vojtech-kracik-jak-muze-psychologicky-vycvik-pomoci-i-vam/"
+              >
                 <Li>
                   <ArrowForwardIosIcon style={{ color: "#5C9DE9" }} />
                   <P> Jak může psychologický výcvik pomoci i vám?</P>
@@ -58,7 +89,10 @@ const Highlights = () => {
               </A>
             </ScrollAnimation>
             <ScrollAnimation animateIn="fadeIn">
-              <A href="#">
+              <A
+                target="_blank"
+                href="https://psychologieprokazdeho.cz/jste-skutecne-pripraveni-prevzit-odpovednost-za-svuj-zivot/"
+              >
                 <Li>
                   <ArrowForwardIosIcon style={{ color: "#5C9DE9" }} />
                   <P>
@@ -68,7 +102,10 @@ const Highlights = () => {
               </A>
             </ScrollAnimation>
             <ScrollAnimation animateIn="fadeIn">
-              <A href="#">
+              <A
+                target="_blank"
+                href="https://psychologieprokazdeho.cz/kazdodenni-ritualy-ktere-vam-zmeni-zivot/"
+              >
                 <Li>
                   <ArrowForwardIosIcon style={{ color: "#5C9DE9" }} />
                   <P>Každodenní rituály, které vám změní život</P>
@@ -76,7 +113,10 @@ const Highlights = () => {
               </A>
             </ScrollAnimation>
             <ScrollAnimation animateIn="fadeIn">
-              <A href="#">
+              <A
+                target="_blank"
+                href="https://psychologieprokazdeho.cz/jak-prekonat-ponorkovou-nemoc/"
+              >
                 <Li>
                   <ArrowForwardIosIcon style={{ color: "#5C9DE9" }} />
                   <P>Jak překonat ponorkovou nemoc?</P>
