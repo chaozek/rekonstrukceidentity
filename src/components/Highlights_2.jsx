@@ -1,5 +1,9 @@
 import { mobile } from "../responsive";
 import ArrowForwardIosIcon from "@mui/icons-material/ArrowForwardIos";
+import BM from "../imgs/BM.png";
+import MB from "../imgs/MB.png";
+import MV from "../imgs/MV.png";
+import PZ from "../imgs/PZ.png";
 import React from "react";
 import ScrollAnimation from "react-animate-on-scroll";
 import anonym from "../imgs/anonym.png";
@@ -22,15 +26,15 @@ const Highlights = () => {
           </Ul>
           <Team>
             <Person>
-              <PersonImg src={anonym} />
+              <PersonImg src={PZ} />
               <H4>Petr Zaplatílek</H4>
             </Person>
             <Person>
-              <PersonImg src={anonym} />
+              <PersonImg src={BM} />
               <H4>Blanka Miličková</H4>
             </Person>
             <Person>
-              <PersonImg src={anonym} />
+              <PersonImg src={MB} />
               <H4>Martina Brázdová</H4>
             </Person>
           </Team>
@@ -86,6 +90,7 @@ const Img = styled.img`
 `;
 const PersonImg = styled.img`
   width: 100px;
+  border-radius: 50%;
 `;
 const H4 = styled.h4``;
 const Ul = styled.ul`

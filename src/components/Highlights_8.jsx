@@ -1,6 +1,9 @@
 import { mobile, tablet } from "../responsive";
 import ArrowForwardIosIcon from "@mui/icons-material/ArrowForwardIos";
+import BM from "../imgs/BM.png";
+import MB from "../imgs/MB.png";
 import MV from "../imgs/MV.png";
+import PZ from "../imgs/PZ.png";
 import React from "react";
 import ScrollAnimation from "react-animate-on-scroll";
 import anonym from "../imgs/anonym.png";
