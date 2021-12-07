@@ -59,6 +59,7 @@ const H2 = styled.h2`
   font-size: 50px;
   font-weight: 500;
   margin-bottom: 5rem;
+  ${mobile({ fontSize: "30px", marginBottom: "2rem" })};
 `;
 const Inside = styled.div`
   display: flex;

@@ -1,5 +1,5 @@
 import { Link, animateScroll as scroll } from "react-scroll";
-import { mobile } from "../responsive";
+import { desktop, mobile } from "../responsive";
 import ParticlesBg from "particles-bg";
 import React from "react";
 import couple from "../imgs/couple.png";
@@ -61,6 +61,7 @@ const Header = styled.div`
   background-image: url(${couple});
   background-repeat: no-repeat;
   background-position: bottom right;
+  ${desktop({ backgroundImage: "none" })};
 `;
 const P = styled.p`
   max-width: 800px;
@@ -80,12 +81,9 @@ const Right = styled.div`
   display: absolute;
   top: 0;
   left: 0;
+  ${desktop({ display: "none" })};
 `;
-const Image = styled.img`
-  display: absolute;
-  top: 0;
-  left: 0;
-`;
+
 const Button = styled.button`
   background-color: #3bb6d7;
   border: none;

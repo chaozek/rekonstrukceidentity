@@ -115,6 +115,7 @@ const H3 = styled.h3`
   font-weight: 500;
   margin-bottom: 5rem;
   color: black;
+  ${mobile({ fontSize: "30px", marginBottom: "2rem" })};
 `;
 const Card = styled.div`
   border-radius: 10px;

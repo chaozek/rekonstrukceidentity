@@ -9,6 +9,7 @@ import Highlight_3 from "./components/Highlights_3";
 import Highlight_4 from "./components/Highlights_4";
 import Highlight_5 from "./components/Highlights_5";
 import Highlight_6 from "./components/Highlights_6";
+import Highlight_7 from "./components/Highlights_7";
 export default function App() {
   return (
     <Router>
@@ -20,6 +21,7 @@ export default function App() {
       <Highlight_4 />
       <Highlight_5 />
       <Highlight_6 />
+      <Highlight_7 />
     </Router>
   );
 }

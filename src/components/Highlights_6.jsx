@@ -22,7 +22,7 @@ const Highlights = () => {
           </strong>
 
           <Ul>
-            <ScrollAnimation animateIn="flipInY" delay={500}>
+            <ScrollAnimation animateIn="flipInY">
               <Li>
                 <ArrowForwardIosIcon style={{ color: "#5C9DE9" }} />
                 <P>
@@ -35,7 +35,7 @@ const Highlights = () => {
                 </P>
               </Li>
             </ScrollAnimation>
-            <ScrollAnimation animateIn="flipInY" delay={800}>
+            <ScrollAnimation animateIn="flipInY">
               <Li>
                 <ArrowForwardIosIcon style={{ color: "#9D64AF" }} />
                 <P>
@@ -48,7 +48,7 @@ const Highlights = () => {
                 </P>
               </Li>
             </ScrollAnimation>
-            <ScrollAnimation animateIn="flipInY" delay={1100}>
+            <ScrollAnimation animateIn="flipInY">
               <Li>
                 <ArrowForwardIosIcon style={{ color: "#D26BB6" }} />
                 <P>
@@ -86,6 +86,7 @@ export const H2 = styled.h2`
   font-size: 50px;
   font-weight: 500;
   margin-bottom: 5rem;
+  ${mobile({ fontSize: "30px", marginBottom: "2rem" })};
 `;
 const Inside = styled.div`
   display: flex;
