@@ -16,13 +16,13 @@ const Highlights = () => {
               Nechceme, abyste byli pouhými diváky nebo čtenáři – plán
               Rekonstrukce identity je navržen tak, abyste všechny nové poznatky
               vědomě praktikovali a zahrnuli je tak do svého běžného života,
-              protože pouze vlastní zažitá zkušenost nás může posunout dál.
+              protože pouze vlastní zažitá zkušenost vás může posunout dál.
             </List>
           </Ul>
           <strong>
             <h3>
               Zajímají vás témata v oblasti osobního rozvoje nebo vlastní
-              identity?{" "}
+              identity?
             </h3>
             <Ul>
               <List>
