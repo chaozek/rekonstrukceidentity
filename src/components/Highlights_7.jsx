@@ -21,7 +21,7 @@ const Highlights = () => {
           </Ul>
           <strong>
             <h3>
-              Zajímají vás témata v oblasti osobního rozvoje nebo vlastní
+              Zajímají vás témata v oblasti osobnostního rozvoje nebo vlastní
               identity?
             </h3>
             <Ul>

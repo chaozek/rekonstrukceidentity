@@ -23,7 +23,7 @@ const Highlights = () => {
               </PersonLeft>
               <PersonRight>
                 <H4>Michaela Varmužová</H4>
-                <P padding="20px">Poradce pro osobní rozvoj</P>
+                <P padding="20px">Poradce pro osobnostní rozvoj</P>
                 <P>
                   <strong>Telefon: </strong>{" "}
                   <a style={{ color: "white" }} href="tel:703375474">

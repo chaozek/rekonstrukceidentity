@@ -43,7 +43,7 @@ const Highlights = () => {
               <ArrowForwardIosIcon style={{ color: "#3BB6D7" }} />
               <P>
                 Budete <strong> součástí komunity</strong>, která se navzájem
-                podporuje a motivuje vás ve vašem osobním rozvoji.
+                podporuje a motivuje vás ve vašem osobnostním rozvoji.
               </P>
             </Li>
           </Ul>
