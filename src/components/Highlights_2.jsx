@@ -1,11 +1,11 @@
 import { mobile } from "../responsive";
 import ArrowForwardIosIcon from "@mui/icons-material/ArrowForwardIos";
 import BM from "../imgs/BM.png";
-import JN from "../imgs/JN.png";
+import JN from "../imgs/jn.png";
 import MB from "../imgs/MB.png";
 import MV from "../imgs/MV.png";
-import MV from "../imgs/MV.png";
-import PL from "../imgs/PL.png";
+import PL from "../imgs/pl.png";
+import PZ from "../imgs/PZ.png";
 import React from "react";
 import ScrollAnimation from "react-animate-on-scroll";
 import anonym from "../imgs/anonym.png";
