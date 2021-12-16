@@ -1,9 +1,11 @@
 import { mobile } from "../responsive";
 import ArrowForwardIosIcon from "@mui/icons-material/ArrowForwardIos";
 import BM from "../imgs/BM.png";
+import JN from "../imgs/JN.png";
 import MB from "../imgs/MB.png";
 import MV from "../imgs/MV.png";
-import PZ from "../imgs/PZ.png";
+import MV from "../imgs/MV.png";
+import PL from "../imgs/PL.png";
 import React from "react";
 import ScrollAnimation from "react-animate-on-scroll";
 import anonym from "../imgs/anonym.png";
@@ -36,6 +38,14 @@ const Highlights = () => {
             <Person>
               <PersonImg src={MB} />
               <H4>Martina Brázdová</H4>
+            </Person>
+            <Person>
+              <PersonImg src={PL} />
+              <H4>Petra Luptáková</H4>
+            </Person>
+            <Person>
+              <PersonImg src={JN} />
+              <H4>Jakub Novotný</H4>
             </Person>
           </Team>
         </Left>
