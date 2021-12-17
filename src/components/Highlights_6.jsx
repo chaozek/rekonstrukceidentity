@@ -129,9 +129,6 @@ const P = styled.p`
   width: 80%;
   margin: 10px;
   transition: all 200ms;
-  &:hover {
-    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
-  }
 `;
 const Center = styled.div`
   padding: 0;

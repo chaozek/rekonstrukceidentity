@@ -16,7 +16,7 @@ const Hero = () => {
           <P>
             Vzdělávací program Rekonstrukce identity je unikátní online
             vzdělávací portál se zaměřením na osobnostní rozvoj. Smyslem tohoto
-            vzdělávacího programu je
+            vzdělávacího programu je{" "}
             <strong>
               komplexní rozvíjení osobnosti formou vědomého praktikování.
             </strong>
