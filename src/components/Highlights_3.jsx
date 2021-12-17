@@ -33,7 +33,7 @@ const Highlights = () => {
                     </Span>
                     krok
                   </strong>
-                  - Jak zjistím, kým skutečně jsem?
+                  Jak zjistím, kým skutečně jsem?
                 </P>
               </Li>
             </ScrollAnimation>
@@ -47,7 +47,7 @@ const Highlights = () => {
                     </Span>
                     krok
                   </strong>
-                  - Jak docílím toho, že se skutečně přijmu?
+                  Jak docílím toho, že se skutečně přijmu?
                 </P>
               </Li>
             </ScrollAnimation>
@@ -75,7 +75,7 @@ const Highlights = () => {
                     </Span>
                     krok
                   </strong>
-                  - Jak přijmu ego-obrany u sebe i u ostatních?
+                  Jak přijmu ego-obrany u sebe i u ostatních?
                 </P>
               </Li>
             </ScrollAnimation>
@@ -89,7 +89,7 @@ const Highlights = () => {
                     </Span>
                     krok
                   </strong>
-                  - Jak vytvářet a rozvíjet už jen zdravé vztahy?
+                  Jak vytvářet a rozvíjet už jen zdravé vztahy?
                 </P>
               </Li>
             </ScrollAnimation>
